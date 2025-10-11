@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mylokaye
-- 👀 I’m interested in developing human centered experiences across Microsoft Dynamics 365: Customer Insights / Data.
+- 👀 I build human centered experiences across Microsoft Dynamics 365: Customer Insights Journeys.
 - 📫 Visit my site to get in touch: https://mylokaye.me or my content site https://www.mylokaye.com
 
 <!---
