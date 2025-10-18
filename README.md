@@ -9,4 +9,3 @@ You can click the Preview link to take a look at your changes.
 --->
 Latest project for Dynamics 365 Customer Insights: 
 [![[https://repository-images.githubusercontent.com/1078737337/458a5796-de1b-4306-b985-40e5db41c48d](https://github.com/mylokaye/Dynamic-Templates))
-](https://repository-images.githubusercontent.com/1078737337/458a5796-de1b-4306-b985-40e5db41c48d)
