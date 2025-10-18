@@ -8,4 +8,4 @@ mylokaye/mylokaye is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 Latest project for Dynamics 365 Customer Insights: 
-![Dynamics 365 Preference Center](https://repository-images.githubusercontent.com/1038399080/5f6af49c-3075-42d1-9d65-3bf9746da8fe)
+![https://repository-images.githubusercontent.com/1078737337/458a5796-de1b-4306-b985-40e5db41c48d)
